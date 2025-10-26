@@ -1,0 +1,5 @@
+# No API keys needed for Workers AI!
+# The AI binding is automatically available in your worker
+
+# Optional - If you want to use Cloudflare AI Gateway for analytics
+# GATEWAY_BASE_URL=https://gateway.ai.cloudflare.com/v1/YOUR_ACCOUNT_ID/YOUR_GATEWAY_ID
